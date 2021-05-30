@@ -1,5 +1,5 @@
 ---
-title: <Welcome to Arianne's page>
+title: Welcome to Arianne's page
 layout: default
 nav_order: 1
 ---
